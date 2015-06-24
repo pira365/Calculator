@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="setting">setting</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">settings</string>
+    <string name="exit">Exit</string>
+    <string name="exit_text">Are you sure want to exit?</string>
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+    <string name="zero">Are you trying to divide by 0?</string>
+    <string name="overdigit">It will exceed the number of display digits!!</string>
+</resources>
